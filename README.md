@@ -4,7 +4,7 @@
 ### 🌱 Learning:
 - Pytorch
 - Deep Learning
-- Human Pose Estiamtion and Human Motion Generation
+- Human Pose Estimation and Human Motion Generation
 ### 💬 Hobbies:
 - Overwatch
 - Workout
