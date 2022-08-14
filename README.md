@@ -2,9 +2,9 @@
 - Address: Amoy, China
 - Contact: dengwenjin@stu.xmu.edu.cn
 ### 🌱 Learning:
-- Pytorch
-- Deep Learning
-- Human Pose Estimation and Human Motion Generation
+- Human Pose Estimation, Audio-driven Human Motion and Face Generation
+- Deep Learning (Pytorch)
+- Unity, Maya
 ### 💬 Hobbies:
 - Overwatch
 - Workout
