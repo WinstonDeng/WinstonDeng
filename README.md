@@ -1,3 +1,4 @@
+![Winston' Profile](https://github-readme-stats.vercel.app/api?username=WinstonDeng&count_private=true&show_icons=true)
 ### 👋 Winston
 - Address: Amoy, China
 - Contact: dengwenjin@stu.xmu.edu.cn
