@@ -2,6 +2,7 @@
 ### 👋 Hi, I'm Winston
 - Address: Amoy, China
 - Contact: dengwenjin@stu.xmu.edu.cn
+- Ins: Momenta
 ### 🌱 Learning:
 - Human Pose Estimation, Audio-driven Human Motion and Face Generation
 - Deep Learning (Pytorch)
