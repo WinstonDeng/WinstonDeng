@@ -1,10 +1,10 @@
 ![Winston' Profile](https://github-readme-stats.vercel.app/api?username=WinstonDeng&count_private=true&show_icons=true)
 ### 👋 Hi, I'm Winston
-- Address: Amoy, China
+- Address: Beijing, China
 - Contact: dengwenjin@stu.xmu.edu.cn
-- Ins: Momenta
+- Ins: StepFun
 ### 🌱 Learning:
-- Human Pose Estimation, Audio-driven Human Motion and Face Generation
+- Human Pose Estimation, Audio-driven Human Motion and Face Generation, Multi-modality LLM.
 - Deep Learning (Pytorch)
 - Unity, Maya
 <!--
