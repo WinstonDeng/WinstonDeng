@@ -3,6 +3,7 @@
 - Address: Beijing, China
 - Contact: dengwenjin@stu.xmu.edu.cn
 - Ins: StepFun
+- Labels: DeepLearning, Human-centric Perception and Generation, Auto-driving, Multi-modality
 ### 🌱 Learning:
 - Human Pose Estimation, Audio-driven Human Motion and Face Generation, Multi-modality LLM.
 - Deep Learning (Pytorch)
