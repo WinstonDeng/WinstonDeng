@@ -1,12 +1,11 @@
 ### 👋 Hi, I'm Winston
 - Address: Beijing, China
-- Contact: dengwenjin@stu.xmu.edu.cn
+- Contact: dengwenjin@stepfun.com / dengwenjin@stu.xmu.edu.cn
 - Ins: StepFun
-- Labels: DeepLearning, Human-centric Perception and Generation, Auto-driving, Multi-modality
+- Labels: Human-centric Perception and Generation, Auto-driving, Multi-modality, Agentic Model
 ### 🌱 Learning:
-- Human Pose Estimation, Audio-driven Human Motion and Face Generation, Multi-modality LLM.
-- Deep Learning (Pytorch)
-- Unity, Maya
+- Project Manage
+- Agent
 <!--
 ### 💬 Hobbies:
 - Overwatch
