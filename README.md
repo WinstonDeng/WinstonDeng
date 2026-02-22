@@ -1,4 +1,3 @@
-![Winston' Profile](https://github-readme-stats.vercel.app/api?username=WinstonDeng&count_private=true&show_icons=true)
 ### 👋 Hi, I'm Winston
 - Address: Beijing, China
 - Contact: dengwenjin@stu.xmu.edu.cn
